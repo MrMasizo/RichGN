@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RichGN
+- 👋 Hi, I’m @RichGN im 17 years old, Im from Mexico
 - 👀 I’m interested in seeing if im able to be a programmer or if i just have to make other thing in my life uwu
 - 🌱 I’m currently learning cs50 Introduction to computer Science
 - 💞️ I’m looking to collaborate on anything
